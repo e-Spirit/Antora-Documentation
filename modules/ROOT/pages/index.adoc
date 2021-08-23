@@ -1,5 +1,3 @@
-= CrownSpirit Documentation
-
-Welcome!
+= Welcome!
 
 This is our Demo documentation page for the Docathon taking place from August 23 till August 27, 2021.
