@@ -1,6 +1,6 @@
 name: component-b
 title: CrownSpirit Documentation
-version: 1.0
+version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
 
