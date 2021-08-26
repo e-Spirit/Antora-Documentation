@@ -1,1 +1,2 @@
 * Welcome
+* xref:cloud:ROOT:index.adoc[FirstSpirit Cloud]
