@@ -2,9 +2,10 @@
 * xref:cloud:ROOT:index.adoc[FirstSpirit Cloud]
 * xref:headless:ROOT:index.adoc[Headless]
 * xref:ecom:ROOT:index.adoc[E-Commerce]
-* xref:4.1.0@fsxa-ui::index.adoc[FSXA UI (4.1.0)]
-* xref:3.0.0@fsxa-ui::index.adoc[FSXA UI (3.0.0)]
 * https://docs.e-spirit.com/lp/?locale=de&main=firstspirit[FirstSpirit]
 * xref:dxm:ROOT:index.adoc[DXM]
 * https://community.crownpeak.com/t5/DQM/ct-p/dqm[DQM]
 * https://community.crownpeak.com/t5/DG/ct-p/dg[DG]
+* FSXA-UI
+** xref:4.1.0@fsxa-ui::index.adoc[FSXA UI (4.1.0)]
+** xref:3.0.0@fsxa-ui::index.adoc[FSXA UI (3.0.0)]
